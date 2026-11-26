@@ -10,7 +10,7 @@ A make.fun entry for [My Secret Logbook](https://make.fun/competitions/u-email-b
 
 ## The line
 
-> Day 412: he said 'just one more tweak' at 2am. It is 4am. I have rewritten the same function nine times. He calls it 'almost done'. I call it Tuesday.
+> Day 256: he asked me to summarise our 3am argument. It was with himself. I was just the search bar.
 
 ## Run
 
